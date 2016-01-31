@@ -103,7 +103,7 @@ img {
   height: auto
 }
 
-h2 {
+h1 {
 font-family: 'Hoefler Text';
 font-size: 20px;
 margin-top: 10px;
@@ -134,7 +134,7 @@ img {
   height: auto
 }
 
-h3 {
+h2 {
    font-family: 'Hoefler Text';
    font-size: 20px;
    margin-top: 10px;
@@ -165,7 +165,100 @@ img {
   height: auto
 }
 
+h3 {
+font-family: 'Hoefler Text';
+font-size: 20px;
+margin-top: 10px;
+}
+
+p {
+  font-family: Palatino;
+  font-size: 15px;
+  line-height: 1.5;
+  margin-top: 10px;
+}
+
+.story4 {
+  background: #FFF;
+  max-width: 330px;
+  width: 100%;
+  float: right;
+  margin-right: 6%;
+  margin-top: 3%;
+  min-height: 285px;
+}
+
+img {
+  border: 0;
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto
+}
+
 h4 {
+font-family: 'Hoefler Text';
+font-size: 20px;
+margin-top: 10px;
+}
+
+p {
+  font-family: Palatino;
+  font-size: 15px;
+  line-height: 1.5;
+  margin-top: 10px;
+}
+
+.story5 {
+  background: #FFF;
+  max-width: 330px;
+  width: 100%;
+  float: right;
+  margin-right: 6%;
+  margin-top: 3%;
+  min-height: 285px;
+}
+
+img {
+  border: 0;
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto
+}
+
+h5 {
+font-family: 'Hoefler Text';
+font-size: 20px;
+margin-top: 10px;
+}
+
+p {
+  font-family: Palatino;
+  font-size: 15px;
+  line-height: 1.5;
+  margin-top: 10px;
+}
+
+.story6 {
+  background: #FFF;
+  max-width: 330px;
+  width: 100%;
+  float: right;
+  margin-right: 6%;
+  margin-top: 3%;
+  min-height: 285px;
+}
+
+img {
+  border: 0;
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto
+}
+
+h6 {
 font-family: 'Hoefler Text';
 font-size: 20px;
 margin-top: 10px;
